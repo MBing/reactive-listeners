@@ -1,4 +1,6 @@
-# JS Boilerplate 2019
+# Reactive Listeners
+
+Example code for getting into reactive JS programming.
 
 ## Dependency (You need to have this on your system installed.)
 - [yarn](https://yarnpkg.com/lang/en/)
